@@ -3,7 +3,7 @@ title: Our Votes Matter
 email: info@18mr.org
 description: > # this means to ignore newlines until "baseurl:"
   Activating Asian Pacific America
-baseurl: ""
+baseurl: "/vote"
 url: "http://18mr.github.io/vote/" # the base hostname & protocol for your site
 twitter_username: 18millionrising
 github_username:  catachresis
@@ -13,4 +13,3 @@ markdown: kramdown
 highlighter: rouge
 
 permalink: title
-source: vote
