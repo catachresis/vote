@@ -162,6 +162,11 @@ home {
 	width: 640px;
 }
 
+.post {
+	width: 640px;
+	float: left;
+}
+
 
 /**
  * Page content
@@ -200,7 +205,7 @@ home {
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+	height: 60px;
 }
 
 .post-title {
