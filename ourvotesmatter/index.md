@@ -2,6 +2,6 @@
 layout: default
 title: '#OurVotesMatter'
 menutitle: '#OurVotesMatter'
-permalink: /ourvotesmatter/
+permalink: /vote/ourvotesmatter/
 weight: 4
 ---

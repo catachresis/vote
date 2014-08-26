@@ -2,7 +2,7 @@
 layout: page
 title: 'For Partners'
 menutitle: 'For Partners'
-permalink: /partners/
+permalink: /vote/partners/
 weight: 2
 ---
 # Ready to get plugged in?

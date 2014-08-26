@@ -2,6 +2,6 @@
 layout: default
 title: 'For Voters'
 menutitle: 'For Voters'
-permalink: /voters/
+permalink: /vote/voters/
 weight: 3
 ---
