@@ -96,8 +96,23 @@ h1, h2 {
 	text-transform: uppercase;
 }
 
+h1 {
+	font-size: 1.5em;
+}
+
 h2 {
 	color: $the-pink;
+}
+
+.exciting-title {
+	text-align: center;
+	font-size: 3em;
+	color: $the-pink;
+	margin-bottom: -50px;
+}
+
+#nomargin {
+		margin-bottom: 0;
 }
 
 /**

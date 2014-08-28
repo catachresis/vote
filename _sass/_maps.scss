@@ -1,0 +1,42 @@
+#google-maps-key {
+
+	span {
+		font-size: .9em;
+	}
+	
+	.key-wrap {
+		display: inline-block;
+	}
+	
+	.mapkey {
+		width: 15px;
+		height: 15px;
+		float: left;
+		margin-right: 3px;
+	}
+	
+	#noreg {
+		background-color: #999;
+	}
+	
+	#week1 {
+		background-color: #ea2485;
+	}
+
+	#week2 {
+		background-color: #ebdd14;
+	}
+	
+	#week3 {
+		background-color: #8bc63e;
+	}
+	
+	#week4 {
+		background-color: #2b99c1;
+	}
+	
+	#week5 {
+		background-color: #9900ff;
+	}
+	
+}
