@@ -13,3 +13,10 @@ As AAPI voting power grows, so will incidents of voter disenfranchisement. Repor
 If you’ve witnessed or heard about any kind of voter disenfranchisement, we encourage you to tell us about it. We’re putting together this data to tell our ballot box stories and to illuminate the pressing need for voter protections – especially in the wake of the Supreme Court’s gutting of the Voting Rights Act. If you indicate that you’d like further assistance with your grievance, we’ll do our best to connect you with advocacy and grassroots groups who may assist you.
 
 We are committed to protecting the identity of all reporters and victims. We will only use anonymized data to map the location and offense. All personal information will be held in confidence and only shared with advocacy partners are the request of victims and reporters.
+
+{% for post in site.categories['ourvotesmatter'] %}
+<div class="a-post">
+	<h1><a href="{{ post.url }}">{{ post.catpagetitle }}</a></h1>
+	{{ post.content }}
+</div>
+{% endfor %}
