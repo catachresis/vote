@@ -30,14 +30,28 @@
 				{% for weight in (1..5) %}
 					{% for p in site.pages %}
 					{% if p.weight == weight %}
-						<li>
-							<a {% if p.url == page.url %}class="active"{% endif %} href="{{ site:baseurl }}{{ p.url }}">
+						<li class="{{ p.childcategory }}-parent">
+							<a class="{% if p.url == page.url %}active{% endif %}"  href="{{ site:baseurl }}{{ p.url }}">
 								{{ p.menutitle }}
 							</a>
+							<ul class="{{ p.childcategory }}-dropdown dropdown visuallyhidden">
+								{% for tag in site.categories %}
+									{% if p.childcategory == tag[0] %}
+									{% assign pages_list = tag[1] %}
+									{% for post in pages_list %}
+									<li>
+										<a href="{{ post.url }}">
+											{{ post.menutitle }}
+										</a>
+									</li>
+									{% endfor %}
+									{% endif %} <!-- category check if -->
+								{% endfor %} <!-- posts loop -->
+							</ul>
 						</li>
-					{% endif %}
-					{% endfor %}
-				{% endfor %}
+					{% endif %} <!-- weight check if -->
+					{% endfor %} <!-- site.pages loop -->
+				{% endfor %} <!-- weight loop -->
 			</ul>
 		</nav>
 		

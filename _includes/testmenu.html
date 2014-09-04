@@ -1,0 +1,27 @@
+<ul>
+{% for weight in (1..5) %}
+	{% for p in site.pages %}
+		{% if p.weight == weight %}
+		{% assign mcat = p.childcategory %}
+			<li>
+				<a href="{{ site:baseurl }}{{ p.url }}">
+					{{ p.menutitle }}
+					{{ mcat }}
+				</a>
+			{% for tag in site.categories %}
+				<ul {% if p.childcategory != tag[0] %} style="display:none;" {% endif %} class="post-list" id="{{ tag[0] }}">
+					<h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
+					{% assign pages_list = tag[1] %}  
+					{% for post in pages_list %}
+						{% if post.title != null %}
+						<li><a href="{{ site.url }}{{ post.url }}">{{ post.menutitle }}</a></li>
+						{% endif %}
+					{% endfor %}
+				{% assign pages_list = nil %}
+				{% assign group = nil %}
+				</ul>
+			{% endfor %}
+			</li>
+		{% endif %}
+	{% endfor %}
+{% endfor %}

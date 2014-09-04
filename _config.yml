@@ -13,3 +13,4 @@ markdown: kramdown
 highlighter: rouge
 
 permalink: title
+categories: [forpartners, forvoters, ourvotesmatter, about, general]
