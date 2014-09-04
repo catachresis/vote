@@ -40,7 +40,7 @@
 									{% assign pages_list = tag[1] %}
 									{% for post in pages_list %}
 									<li>
-										<a href="{{ post.url }}">
+										<a href="{{ site:baseurl }}{{ post.url }}">
 											{{ post.menutitle }}
 										</a>
 									</li>
