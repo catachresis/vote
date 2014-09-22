@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'For Voters | Voter Guides'
-catpagetitle: 'Voter Guides'
-menutitle: 'Voter Guides'
+title: 'For Voters | Voter Resources'
+catpagetitle: 'Voter Resources'
+menutitle: 'Voter Resources'
 categories: [forvoters]
 date: 2014-08-31
-permalink: /voters/guides/
+permalink: /voters/resources/
 ---
-_Voter guides are coming soon!_
+_Voter resources are coming soon!_
