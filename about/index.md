@@ -18,5 +18,3 @@ Our culturally savvy campaigns and aptitude for building and implementing techno
 Rock the Vote is the nation’s largest organization engaging and building the political power of young people in politics. Founded nearly 25 years ago in response to a wave of attacks on freedom of speech and artistic expression, Rock the Vote uses music, popular culture, and cutting-edge technologies to engage and mobilize young people to have a voice in the democratic process.
 
 ## Our Partners
-
-This is some mockup text.
