@@ -19,4 +19,6 @@ Rock the Vote is the nation’s largest organization engaging and building the p
 
 ## Our Partners
 
-Partner logos go here.
+<img src=”http://bicoastalbitchin.files.wordpress.com/2014/07/cropped-bcb-header-yellow.jpg” />
+
+
