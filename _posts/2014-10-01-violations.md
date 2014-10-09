@@ -1,5 +1,5 @@
 ---
-layout: heatmap
+layout: ovm-page
 title: '#OurVotesMatter | Reported Violations'
 catpagetitle: 'Reported Violations'
 menutitle: 'Reported Violations'
