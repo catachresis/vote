@@ -21,4 +21,18 @@ Rock the Vote is the nation’s largest organization engaging and building the p
 
 ![cropped-bcb-header-yellow](https://cloud.githubusercontent.com/assets/8837586/4464543/83f7f9dc-48d4-11e4-8cc6-2de41a702b87.jpg)
 
+![asian pacific fund logo](https://cloud.githubusercontent.com/assets/8837586/4580681/b4dde484-4fd8-11e4-9abd-58f736e51f40.jpg)
 
+![faj](https://cloud.githubusercontent.com/assets/8837586/4580775/b54f5352-4fd9-11e4-9a2c-62217a401242.jpg)
+
+![hm-logo2](https://cloud.githubusercontent.com/assets/8837586/4580812/2ea40a86-4fda-11e4-9904-c61caa2c4161.png)
+
+![krcla logo](https://cloud.githubusercontent.com/assets/8837586/4580826/5dc30718-4fda-11e4-95e8-7af81087faa9.jpg)
+
+![asia logo green](https://cloud.githubusercontent.com/assets/8837586/4580974/90f54b18-4fdb-11e4-9bf5-d384f70add4d.jpg)
+
+![seac](https://cloud.githubusercontent.com/assets/8837586/4580990/be4e6ca2-4fdb-11e4-9f81-fc1481bbd7e2.jpg)
+
+![reappropriate_logo](https://cloud.githubusercontent.com/assets/8837586/4551861/eef8abac-4e77-11e4-96f4-709f542b12df.jpg)
+
+**Reappropriate**
