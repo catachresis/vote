@@ -16,7 +16,7 @@ We are committed to protecting the identity of all reporters and victims. We wil
 
 ## Reported Hotspots
 
-<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col1+from+1CYtVvXfAynsATyN8yT5sTlzj6qtt4XqhAZ8d2sYW&amp;viz=MAP&amp;h=false&amp;lat=38.444984668894705&amp;lng=-95.90927124023438&amp;t=1&amp;z=4&amp;l=col1&amp;y=2&amp;tmplt=2&amp;hml=GEOCODABLE"></iframe>
+<iframe width="630" height="400" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col1+from+1CYtVvXfAynsATyN8yT5sTlzj6qtt4XqhAZ8d2sYW&amp;viz=MAP&amp;h=false&amp;lat=39.5033&amp;lng=-98.35&amp;t=1&amp;z=4&amp;l=col1&amp;y=2&amp;tmplt=2&amp;hml=GEOCODABLE"></iframe>
 
 _[View more reporting data here]({{ baseurl }}/ourvotesmatter/violations)._
 

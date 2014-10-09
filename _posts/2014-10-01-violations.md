@@ -9,7 +9,7 @@ categories:
 permalink: /ourvotesmatter/violations/
 date: 2014-09-02
 ---
-<div id="googft-mapCanvas"></div>
+<iframe width="630" height="400" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col1+from+1CYtVvXfAynsATyN8yT5sTlzj6qtt4XqhAZ8d2sYW&amp;viz=MAP&amp;h=false&amp;lat=39.5033&amp;lng=-98.35&amp;t=1&amp;z=4&amp;l=col1&amp;y=2&amp;tmplt=2&amp;hml=GEOCODABLE"></iframe>
 
 ## Stories
 
