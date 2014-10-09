@@ -20,8 +20,6 @@ Rock the Vote is the nation’s largest organization engaging and building the p
 ## Our Partners
 
 ![cropped-bcb-header-yellow](https://cloud.githubusercontent.com/assets/8837586/4464543/83f7f9dc-48d4-11e4-8cc6-2de41a702b87.jpg)
-<<<<<<< HEAD
-=======
 ##
 ![reappropriate logo](https://cloud.githubusercontent.com/assets/8837586/4551861/eef8abac-4e77-11e4-96f4-709f542b12df.jpg)
 ###### **Reappropriate**
@@ -38,8 +36,4 @@ Rock the Vote is the nation’s largest organization engaging and building the p
 ##
 ![seac](https://cloud.githubusercontent.com/assets/8837586/4580990/be4e6ca2-4fdb-11e4-9f81-fc1481bbd7e2.jpg)
 
->>>>>>> origin/pr/13
 
-![reappropriate_logo](https://cloud.githubusercontent.com/assets/8837586/4551861/eef8abac-4e77-11e4-96f4-709f542b12df.jpg)
-
-**Reappropriate**
