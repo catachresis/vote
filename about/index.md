@@ -18,21 +18,30 @@ Our culturally savvy campaigns and aptitude for building and implementing techno
 Rock the Vote is the nation’s largest organization engaging and building the political power of young people in politics. Founded nearly 25 years ago in response to a wave of attacks on freedom of speech and artistic expression, Rock the Vote uses music, popular culture, and cutting-edge technologies to engage and mobilize young people to have a voice in the democratic process.
 
 ## Our Partners
-
-![cropped-bcb-header-yellow](https://cloud.githubusercontent.com/assets/8837586/4464543/83f7f9dc-48d4-11e4-8cc6-2de41a702b87.jpg)
-
-![asian pacific fund logo](https://cloud.githubusercontent.com/assets/8837586/4580681/b4dde484-4fd8-11e4-9abd-58f736e51f40.jpg)
-
-![faj](https://cloud.githubusercontent.com/assets/8837586/4580775/b54f5352-4fd9-11e4-9a2c-62217a401242.jpg)
-
-![hm-logo2](https://cloud.githubusercontent.com/assets/8837586/4580812/2ea40a86-4fda-11e4-9904-c61caa2c4161.png)
-
-![krcla logo](https://cloud.githubusercontent.com/assets/8837586/4580826/5dc30718-4fda-11e4-95e8-7af81087faa9.jpg)
-
-![asia logo green](https://cloud.githubusercontent.com/assets/8837586/4580974/90f54b18-4fdb-11e4-9bf5-d384f70add4d.jpg)
-
-![seac](https://cloud.githubusercontent.com/assets/8837586/4580990/be4e6ca2-4fdb-11e4-9f81-fc1481bbd7e2.jpg)
-
-![reappropriate_logo](https://cloud.githubusercontent.com/assets/8837586/4551861/eef8abac-4e77-11e4-96f4-709f542b12df.jpg)
-
-**Reappropriate**
+<ul class="rig">
+		<li>
+		<img src="https://cloud.githubusercontent.com/assets/8837586/4580681/b4dde484-4fd8-11e4-9abd-58f736e51f40.jpg">
+	</li>
+	<li>
+		<img src="https://cloud.githubusercontent.com/assets/8837586/4580775/b54f5352-4fd9-11e4-9a2c-62217a401242.jpg">
+	</li>
+	<li>
+		<img src="https://cloud.githubusercontent.com/assets/8837586/4580812/2ea40a86-4fda-11e4-9904-c61caa2c4161.png">
+	</li>
+	<li>
+		<img src="https://cloud.githubusercontent.com/assets/8837586/4580826/5dc30718-4fda-11e4-95e8-7af81087faa9.jpg">
+	</li>
+	<li>
+		<img src="https://cloud.githubusercontent.com/assets/8837586/4580974/90f54b18-4fdb-11e4-9bf5-d384f70add4d.jpg">
+	</li>
+	<li>
+		<img src="https://cloud.githubusercontent.com/assets/8837586/4580990/be4e6ca2-4fdb-11e4-9f81-fc1481bbd7e2.jpg">
+	</li>
+	<li>
+		<img src="https://cloud.githubusercontent.com/assets/8837586/4551861/eef8abac-4e77-11e4-96f4-709f542b12df.jpg">
+		<p>Reappropriate</p>
+	</li>
+	<li>
+		<img src="https://cloud.githubusercontent.com/assets/8837586/4464543/83f7f9dc-48d4-11e4-8cc6-2de41a702b87.jpg">
+	</li>
+</ul>
