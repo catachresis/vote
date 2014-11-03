@@ -7,7 +7,7 @@ categories: ourvotesmatter
 date: 2014-08-10
 permalink: /ourvotesmatter/georgia-sos/
 ---
-__With only 6 days left until Election Day, 40,000 Georgians could lose their chance to vote__ – and the Georgia Secretary of State, Brian Kemp, is doing nothing to stop this.
+__With less than a day left until Election Day, 40,000 Georgians could lose their chance to vote__ – and the Georgia Secretary of State, Brian Kemp, is doing nothing to stop this.
 
 The 40,000 people in question registered to vote in Georgia only to have their names go missing on state voter rolls. As if it wasn’t bad enough that these potential new voters may never have the chance to cast their ballots, but __they represent Asian, Black, and Latino communities__ from around Columbus, Atlanta, and Savannah.
 
