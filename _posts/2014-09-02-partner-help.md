@@ -11,4 +11,4 @@ Don't worry! That's what we're here for.
 
 Check out our [FAQ]({{ site.baseurl }}/partners/faq/).
 
-Or, come to office hours. [TBA]
+If that doesn't solve your problem, [get in touch with us](mailto:info@18millionrising.org)!
